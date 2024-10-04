@@ -179,7 +179,7 @@ const workExperiences = {
       date: "Feb 2024 – Aug 2024",
       //desc: "Implemented new features and system enhancements while developing backend APIs using PHP and the Laravel framework, resulting in measurable improvements in system functionality, overall performance, and the robustness and scalability of web services",
       descBullets: [
-        "Implemented new features and system enhancements, leading to measurable improvements in system functionality and overall performance",
+        "Implemented new features and system enhancements, leading to measurable improvements in system functionality and performance",
         "Developed backend APIs using PHP and the Laravel framework, ensuring robust and scalable web services"
       ]
     },
