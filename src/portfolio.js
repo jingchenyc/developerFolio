@@ -23,10 +23,10 @@ const greeting = {
   username: "Yi-Chun Chen",
   title: "Hi all, I'm Jing",
   subTitle: emoji(
-      "A passionate Full Stack Software Developer 🚀 having an experience of building Web applications with Java / PHP / JavaScript / Reactjs / Nodejs / React Native and some other cool libraries and frameworks."
+    "A passionate Full Stack Software Developer 🚀 having an experience of building Web applications with Java / PHP / JavaScript / Reactjs / Nodejs / React Native and some other cool libraries and frameworks."
   ),
   resumeLink:
-      "https://drive.google.com/file/d/1571Mf9eTdhKfneR6G1nL-M6O7GKU98Zn/view?usp=sharing", // Set to empty to hide the button
+    "https://drive.google.com/file/d/1571Mf9eTdhKfneR6G1nL-M6O7GKU98Zn/view?usp=sharing", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
@@ -50,7 +50,7 @@ const socialMediaLinks = {
 const skillsSection = {
   title: "What I do",
   subTitle:
-      "PASSIONATE FULL STACK DEVELOPER WHO WANTS TO EXPLORE EVERY TECH STACK",
+    "PASSIONATE FULL STACK DEVELOPER WHO WANTS TO EXPLORE EVERY TECH STACK",
   skills: [
     emoji("⚡ Develop highly scalable Back end APIs for your web applications"),
     emoji("⚡ Progressive Web Applications in normal and SPA Stacks"),
@@ -128,8 +128,8 @@ const educationInfo = {
       subHeader: "Master of Science in Information Systems",
       duration: "September 2024 - May 2026",
       desc:
-          "CourseworkApplication Engineering and Development (Java), Web Design and User Experience Engineering (JavaScript /\n" +
-          "React.js)..."
+        "CourseworkApplication Engineering and Development (Java), Web Design and User Experience Engineering (JavaScript /\n" +
+        "React.js)..."
       // descBullets: [
       //   "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
       //   "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
@@ -226,7 +226,7 @@ const bigProjects = {
       image: require("./assets/images/personalWebsite.png"),
       projectName: "Web Development for Personal Website",
       projectDesc:
-          "Built a personal website from scratch using HTML, Sass, and JavaScript, showcasing technical skills in web development.",
+        "Built a personal website from scratch using HTML, Sass, and JavaScript, showcasing technical skills in web development.",
       footerLink: [
         {
           name: "Visit Website",
@@ -239,7 +239,7 @@ const bigProjects = {
       image: require("./assets/images/tutorWeb.png"),
       projectName: "Tutor Web",
       projectDesc:
-          "Developed a full-stack web application with Java, Spring Boot, and SQL Server for accessing online learning resources and facilitating online tutoring sessions."
+        "Developed a full-stack web application with Java, Spring Boot, and SQL Server for accessing online learning resources and facilitating online tutoring sessions."
       // footerLink: [
       //   {
       //     name: "Visit Website",
@@ -257,13 +257,13 @@ const bigProjects = {
 const achievementSection = {
   title: emoji("Achievements And Certifications 🏆 "),
   subtitle:
-      "Achievements, Certifications, Award Letters and Some Cool Stuff that I have done !",
+    "Achievements, Certifications, Award Letters and Some Cool Stuff that I have done !",
 
   achievementsCards: [
     {
       title: "Google Code-In Finalist",
       subtitle:
-          "First Pakistani to be selected as Google Code-in Finalist from 4000 students from 77 different countries.",
+        "First Pakistani to be selected as Google Code-in Finalist from 4000 students from 77 different countries.",
       image: require("./assets/images/codeInLogo.webp"),
       imageAlt: "Google Code-In Logo",
       footerLink: [
@@ -284,7 +284,7 @@ const achievementSection = {
     {
       title: "Google Assistant Action",
       subtitle:
-          "Developed a Google Assistant Action JavaScript Guru that is available on 2 Billion devices world wide.",
+        "Developed a Google Assistant Action JavaScript Guru that is available on 2 Billion devices world wide.",
       image: require("./assets/images/googleAssistantLogo.webp"),
       imageAlt: "Google Assistant Action Logo",
       footerLink: [
@@ -317,21 +317,21 @@ const achievementSection = {
 const blogSection = {
   title: "Blogs",
   subtitle:
-      "With Love for Developing cool stuff, I love to write and teach others what I have learnt.",
+    "With Love for Developing cool stuff, I love to write and teach others what I have learnt.",
   displayMediumBlogs: true, // Set true to display fetched medium blogs instead of hardcoded ones
   blogs: [
     {
       url: "https://jingchenyc.medium.com/cracking-coding-proven-paths-to-learn-programming-cfdc18ba75c3",
       title: "Cracking Coding: Proven Paths to Learn Programming👩🏻‍💻",
       description:
-          "Here are several effective strategies and resources I tried before (and I got a job!) that have successfully mastered programming skills."
+        "Here are several effective strategies and resources I tried before (and I got a job!) that have successfully mastered programming skills."
     },
     {
       url: "https://jingchenyc.medium.com/phone-interview-hacks-5-common-interview-questions-and-how-to-answer-them-correctly-0eae0afb19a0",
       title:
-          "Phone Interview Hacks: 5 Common Interview Questions and How to Answer Them Correctly🚀?",
+        "Phone Interview Hacks: 5 Common Interview Questions and How to Answer Them Correctly🚀?",
       description:
-          "Having recently navigated several phone interviews, I’ve compiled a collection of notes and insights that I wish I’d known from the start."
+        "Having recently navigated several phone interviews, I’ve compiled a collection of notes and insights that I wish I’d known from the start."
     }
   ],
   display: true // Set false to hide this section, defaults to true
@@ -342,7 +342,7 @@ const blogSection = {
 const talkSection = {
   title: "TALKS",
   subtitle: emoji(
-      "I LOVE TO SHARE MY LIMITED KNOWLEDGE AND GET A SPEAKER BADGE 😅"
+    "I LOVE TO SHARE MY LIMITED KNOWLEDGE AND GET A SPEAKER BADGE 😅"
   ),
 
   talks: [
@@ -384,7 +384,7 @@ const resumeSection = {
 const contactInfo = {
   title: emoji("Contact Me ☎️"),
   subtitle:
-      "Discuss a project or just want to say hi? My Inbox is open for all.",
+    "Discuss a project or just want to say hi? My Inbox is open for all.",
   number: "+1-6693085071",
   email_address: "jingchenyc@gmail.com"
 };
