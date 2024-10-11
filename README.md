@@ -1,3 +1,28 @@
+# Personal Portfolio by YiChun (Jing) Chen ⚡️
+
+[![GitHub](https://img.shields.io/github/license/saadpasta/developer-portfolio?color=blue)](https://github.com/saadpasta/developerFolio/blob/master/LICENSE)
+
+## Website: [My Portfolio](https://jingchenyc.github.io/developerFolio/)  
+[LinkedIn: YiChun (Jing) Chen](https://www.linkedin.com/in/yi-chun-chen-tw)
+
+### Tech Stack
+This portfolio is built using the following technologies:
+- **HTML5** - For creating the structure of the web pages.
+- **CSS3 / SCSS** - For styling and layout customization.
+- **JavaScript (React)** - For building interactive user interfaces.
+- **Bootstrap** - To ensure a responsive and mobile-friendly layout.
+- **GitHub Pages** - For easy and free website hosting.
+
+This is a personalized version of [developerFolio](https://github.com/saadpasta/developerFolio) that showcases my professional background, skills, and project experience.
+
+### Modifications and Customizations:
+- Updated color scheme and styles to reflect my personal branding.
+- Customized content to present my unique skill set, educational background, and work experience.
+
+Feel free to check out my portfolio! For suggestions or questions, you can contact me through [LinkedIn](https://www.linkedin.com/in/yi-chun-chen-tw).
+
+---
+
 # Software Developer Folio ⚡️ [![GitHub](https://img.shields.io/github/license/saadpasta/developer-portfolio?color=blue)](https://github.com/saadpasta/developerFolio/blob/master/LICENSE) [![GitHub stars](https://img.shields.io/github/stars/saadpasta/developerFolio)](https://github.com/saadpasta/developerFolio/stargazers)  [![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#contributors)
 
 ## A clean, beautiful and responsive portfolio template for Developers!
