@@ -176,7 +176,7 @@ const workExperiences = {
       role: "Software Engineer",
       company: "Firewall",
       companylogo: require("./assets/images/firewallLogo.png"),
-      date: "Feb 2024 – Aug 2024",
+      date: "Nov 2023 – Aug 2024",
       //desc: "Implemented new features and system enhancements while developing backend APIs using PHP and the Laravel framework, resulting in measurable improvements in system functionality, overall performance, and the robustness and scalability of web services",
       descBullets: [
         "Implemented new features and system enhancements, leading to measurable improvements in system functionality and performance",
@@ -190,7 +190,7 @@ const workExperiences = {
       date: "May 2021 – Jul 2022",
       //desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
       descBullets: [
-        "Achieved 60% time savings by implementing Python for automated scripts to replace manual recording processes, increasing operational efficiency",
+        "Achieved 60% time savings spent on repetitive tasks by automating a manual data recording process using Python scripts",
         "Tested and evaluated a new financial system, contributing to UI/UX meetings to enhance user experience"
       ]
     },
@@ -198,11 +198,10 @@ const workExperiences = {
       role: "EYAcademy Internship",
       company: "EY",
       companylogo: require("./assets/images/eyLogo.png"),
-      date: "Feb 2018 – Jun 2020",
+      date: "Jul 2018 – Aug 2018",
       //desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
       descBullets: [
-        "Supported research, analysis, and problem-solving using a variety of tools and techniques",
-        "Participated in a business competition for drafting business plans and innovative solutions for startups"
+        "Conducted auditing practice reviews, analyzing and correcting over 1,000 financial transaction records, ensuring 100% compliance with regulatory standards, enhancing client trust through detailed financial reconciliations",
       ]
     }
   ]
