@@ -120,15 +120,27 @@ https://fontawesome.com/icons?d=gallery */
 // Education Section
 
 const educationInfo = {
-  display: false, // Set false to hide this section, defaults to true
+  display: true, // Set false to hide this section, defaults to true
   schools: [
+    {
+      schoolName: "Carnegie Mellon University",
+      logo: require("./assets/images/carnegieMellonUniversity.png"),
+      subHeader: "Master of Science in Software Management",
+      duration: "August 2025 - December 2026",
+      desc:
+        "Architecture & Programming Principles, Product Management, Foundations of Software Management")..."
+      // descBullets: [
+      //   "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      //   "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+      // ]
+    },
     {
       schoolName: "Northeastern University",
       logo: require("./assets/images/northeasternLogo.png"),
       subHeader: "Master of Science in Information Systems",
-      duration: "September 2024 - May 2026",
+      duration: "September 2024 - January 2025",
       desc:
-        "CourseworkApplication Engineering and Development (Java), Web Design and User Experience Engineering (JavaScript /\n" +
+        "Application Engineering and Development (Java), Web Design and User Experience Engineering (JavaScript /\n" +
         "React.js)..."
       // descBullets: [
       //   "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
