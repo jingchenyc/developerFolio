@@ -127,8 +127,7 @@ const educationInfo = {
       logo: require("./assets/images/carnegieMellonUniversity.png"),
       subHeader: "Master of Science in Software Management",
       duration: "August 2025 - December 2026",
-      desc:
-        "Architecture & Programming Principles, Product Management, Foundations of Software Management)..."
+      desc: "Architecture & Programming Principles, Product Management, Foundations of Software Management..."
       // descBullets: [
       //   "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
       //   "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
@@ -213,7 +212,7 @@ const workExperiences = {
       date: "Jul 2018 – Aug 2018",
       //desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
       descBullets: [
-        "Conducted auditing practice reviews, analyzing and correcting over 1,000 financial transaction records, ensuring 100% compliance with regulatory standards, enhancing client trust through detailed financial reconciliations",
+        "Conducted auditing practice reviews, analyzing and correcting over 1,000 financial transaction records, ensuring 100% compliance with regulatory standards, enhancing client trust through detailed financial reconciliations"
       ]
     }
   ]
