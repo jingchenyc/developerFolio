@@ -128,7 +128,7 @@ const educationInfo = {
       subHeader: "Master of Science in Software Management",
       duration: "August 2025 - December 2026",
       desc:
-        "Architecture & Programming Principles, Product Management, Foundations of Software Management")..."
+        "Architecture & Programming Principles, Product Management, Foundations of Software Management)..."
       // descBullets: [
       //   "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
       //   "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
